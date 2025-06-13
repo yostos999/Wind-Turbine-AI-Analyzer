@@ -125,6 +125,31 @@ turbine_ai_analyzer/
     └── Location1.csv    # 샘플 데이터
 ```
 
+## 인터페이스
+![스크린샷 2025-06-13 220430](https://github.com/user-attachments/assets/5d3c7be3-9225-470a-a476-ec6c9cd69fb1)
+기본 화면입니다.
+
+![스크린샷 2025-06-13 220612](https://github.com/user-attachments/assets/af8d697a-9b31-473b-9306-c4b6ca8d1f86)
+csv파일을 업로드 하시거나 또는 셈플 데이터를 사용한 다음 분석 시작을 누르면 위 화면과 같이 나옵니다.
+
+![스크린샷 2025-06-13 220636](https://github.com/user-attachments/assets/42033690-8d52-4543-8f12-83bf8e1a039d)
+성능 분석 창입니다.
+
+![스크린샷 2025-06-13 220644](https://github.com/user-attachments/assets/457134b8-d02a-46c2-ba83-f0f33f6da656)
+![스크린샷 2025-06-13 220650](https://github.com/user-attachments/assets/71fe70cd-9b30-4069-b9e3-0c39e5dc115f)
+상관관계에 대한 히트맵 및 발전량과의 상관관계를 보여주는 그래프입니다.
+
+![스크린샷 2025-06-13 220714](https://github.com/user-attachments/assets/b5f9b277-c3cb-4d5b-8962-0122edc79d1a)
+효율성 진단 창입니다.
+
+![스크린샷 2025-06-13 220826](https://github.com/user-attachments/assets/dcefa732-03a1-4070-97e7-a81081e93fec)
+AI 인사이트 생성을 누르면 제미나이 API(적용 모델은 1.5 flash)를 활용하여 데이터를 분석하고 인사이트를 만들어 줍니다.
+
+![스크린샷 2025-06-13 221024](https://github.com/user-attachments/assets/72e4f969-03c8-4b15-b628-b819d73eaadc)
+![스크린샷 2025-06-13 220854](https://github.com/user-attachments/assets/90b8a28b-1c80-4aac-8644-4cd50dcc9a52)
+![스크린샷 2025-06-13 220839](https://github.com/user-attachments/assets/82e2fa33-3482-4a97-af78-0362e1dffaa9)
+또한 추가적인 조언을 포함한 리포트를 생성해 줍니다.
+
 ## 라이선스
 
 MIT License - 자유롭게 사용, 수정, 배포가 가능합니다.
