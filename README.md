@@ -2,10 +2,6 @@
 
 풍력 터빈 운영 데이터를 분석하고 AI 기반 인사이트를 제공하는 웹 애플리케이션입니다. 설비팀이 설비 성능을 쉽게 분석하고 개선 방안을 도출할 수 있도록 도와줍니다.
 
-# 데이터 출처 AI 설비 성능 분석가 (Wind Turbine AI Analyzer)
-
-풍력 터빈 운영 데이터를 분석하고 AI 기반 인사이트를 제공하는 웹 애플리케이션입니다. 설비팀이 설비 성능을 쉽게 분석하고 개선 방안을 도출할 수 있도록 도와줍니다.
-
 # 데이터 출처
 https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting
 
